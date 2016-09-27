@@ -1,5 +1,6 @@
 var CACHE_NAME = 'v3::madebymike';
 var urlsToCache = [
+    
     '/',
     '/offline.html',
     '/css/styles.min.css'
